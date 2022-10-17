@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StudyAndroidStudio</string>
+    <string name="the_list_will_be_here">The list will be here</string>
+    <string name="id">Введите id Вконтакте</string>
+    <string name="search">Search</string>
+    <string name="result">Результат будет отображен здесь</string>
 </resources>
